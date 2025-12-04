@@ -179,12 +179,7 @@ body {
         gap: 5px;
       }
 
-      .logo-img {
-        width: 45px;
-        height: 45px;
-        margin: 0;
-      }
-
+      
       .nav-links {
         flex-direction: column;
         width: 100%;
