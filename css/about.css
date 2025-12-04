@@ -90,6 +90,11 @@ body {
     color: #f8fbff;
 }
 
+.package{
+    color: #f8fbff;
+}
+
+
 /* ---------- About Section ---------- */
 .about-container {
     display: flex;
