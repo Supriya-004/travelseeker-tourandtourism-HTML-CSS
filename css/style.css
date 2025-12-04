@@ -1,0 +1,58 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: wheat;
+}
+
+.navbar-main-container {
+    background-color: #0077b6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+}
+
+.main-logo {
+    border-radius: 50px;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.heading {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.nav-links {
+    display: flex;
+    gap: 30px;
+    cursor: pointer;
+}
+
+.auth-nav-links {
+    display: flex;
+    gap: 30px;
+    cursor: pointer;
+}
+
+.main-image {
+    margin-top: 20px;
+    width: 700px;
+    max-width: 600px;
+    border-radius: 20px;
+}
+
+.main-content-container {
+    display: flex;
+    justify-content: space-around;
+}
+.main-heading{
+font-size: 35px;
+font-weight: bold;
+
+}
