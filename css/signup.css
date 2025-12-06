@@ -1,15 +1,10 @@
-* {
 
-    box-sizing: border-box;
-}
 
 body {
     font-family: 'Arial', sans-serif;
     background-color: #F8FBFF;
     color: #023047;
     line-height: 1.5;
-
-   /*  background: url(./../images/login-page-img.jpg) no-repeat center center fixed; */
     background-size: cover;
     margin: 0;
     padding: 0;
@@ -300,7 +295,7 @@ body {
 }
 
 .footer {
-    width: 100%;
+    width: auto;
     background: #0077B6;
     color: #ffffff;
     padding: 40px 30px 10px;
@@ -408,10 +403,8 @@ body {
     margin-top: 30px;
     font-size: 14px;
 }
-/* Responsive */
 
     
-
  @media screen and (max-width: 1024px) {
 
     body {
@@ -453,11 +446,12 @@ body {
  }
 
     .quote {
-         font-size: 35px; 
+         font-size: 40px; 
         
     }
 
-    .login-card{
+   .signup-card {
+    width: auto;
        margin-right: 10px;
       margin-bottom: 700px;
 
