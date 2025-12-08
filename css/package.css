@@ -196,6 +196,7 @@ body {
     text-align: center;
     margin: 40px 0;
     width: 100%;
+      text-decoration: none;
 }
 
 .book-btn {
@@ -208,6 +209,7 @@ body {
     font-weight: 600;
     cursor: pointer;
     transition: 0.3s ease;
+      text-decoration: none;
 
 }
 
